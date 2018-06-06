@@ -65,6 +65,8 @@ build.gradle
 catalog-ui/app/dist/*
 .metadata/
 .metadata/*
+.recommenders/
+.recommenders/*
 .project
 .settings/
 Vagrantfile
